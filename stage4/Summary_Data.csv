@@ -1,0 +1,28 @@
+,solar_powered__water_heater,gas_water_heater,electric_water_heater___peak_hou,electric_water_heater___off_peak,gas,natural_gas,jetfuel,hybrid,electric___peak_hours,electric___off_peak_hours
+Household heating => 70F,272.0,831.0,731.0,758.0,140.0,5639.0,,55.0,123.0,
+Household heating < 70F,306.0,717.0,601.0,817.0,108.0,5524.0,,158.0,141.0,
+Use of heat pump,-15.0,-16.0,-2.0,-13.0,,,,-1.0,-7.0,
+Use of air conditioner ,1243.0,1228.0,2278.0,2882.0,411.0,,,550.0,505.0,
+shower - short,265.0,688.0,694.0,244.0,90.0,,,133.0,86.0,
+shower - long (> 3 min),1892.0,1148.0,1455.0,1940.0,374.0,,,473.0,374.0,
+bath,11.0,19.0,11.0,,21.0,,,,2.0,
+wash-up,2962.0,2147.0,2826.0,2454.0,844.0,,,1280.0,766.0,
+use of dishwasher,61.0,60.0,13.0,73.0,21.0,,,14.0,,
+use of clothes washer,277.0,258.0,112.0,177.0,148.0,,,145.0,83.0,
+use of clothes dryer ,121.0,128.0,63.0,82.0,45.0,,,57.0,52.0,1259.0
+use of cooking range,33.0,15.0,16.0,11.0,13.0,,,,10.0,242.0
+use of  oven,499.0,532.0,322.0,492.0,255.0,,,269.0,119.0,5079.0
+use of self-clean feature of electric oven,144.0,122.0,62.0,85.0,41.0,,,57.0,35.0,
+Small kitchen applicance in the home,224.0,226.0,,56.0,56.0,,,,109.0,
+TV/computer use,3237.0,3276.0,1106.0,2995.0,991.0,,,1398.0,1466.0,
+air travel - large plane,,,,,58898.0,,698749.0,,,
+air travel - small  plane (<50 seats) ,,,,,,,9843.0,,,
+car trips- self only,,,,,358678.0,,,,,
+car trips - driver and self,,,,,25332.0,,,,,
+car trips - 2+ people with multiple end points,,,,,8969.0,,,,,
+trips using public ground transportation,,,,,,,,,,
+bags of garbage disposed,,,,,,,,,,
+bags of recycling deposited (negative CF),,,,,,,,,,
+bags of compost deposited (negative CF),,,,,,,,,,
+hazardous or electric items disposed,,,,,,,,,,
+large items disposed,,,,,,,,,,
